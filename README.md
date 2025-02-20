@@ -4,10 +4,9 @@ Web application
 This application is going to be a tool for students that wanna optimize their time schedule (lectures, labs, homework etc..) in the most efficient way possible using alghoritms or as people like to call it "AI". The alghoritm will take into consideration also personal traits, selected upon creating an account (for example if you wanna do sports).
 
 ## Key functions
-### Basic planning
+#### Basic planning
 This will include calendar, to-do-list and automatic planning which was mentioned.
 
-### Essential functions
 #### Adaptive planning 
 If for example a student doesnt get something done, app will automatically reschedule optimally.
 
