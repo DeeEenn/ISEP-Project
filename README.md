@@ -31,7 +31,7 @@ There will also be a friend system, where you can share your previous achievemen
   - React Native Paper
   - TailwindCSS
 
-## Webová Aplikace
+### Web application
 
 - **Frontend:**
   - React
@@ -44,7 +44,7 @@ There will also be a friend system, where you can share your previous achievemen
  - Vite, Webpack nebo Create React App
 
 
-## Backend (for both)
+### Backend (for both)
 
 - **Platform:**
   - **Node.js** with **TypeScript**
