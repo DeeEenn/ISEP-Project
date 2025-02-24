@@ -41,7 +41,6 @@ There will also be a friend system, where you can share your previous achievemen
 
 - **UI/Libraries:**
   - Tailwind CSS
- - Vite, Webpack nebo Create React App
 
 
 ### Backend (for both)
