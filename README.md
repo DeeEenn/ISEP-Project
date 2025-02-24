@@ -52,6 +52,6 @@ There will also be a friend system, where you can share your previous achievemen
   - Express.js or NestJS
 
 - **Database:**
-  - **PostgreSQL**
+  - PostgreSQL
 
 
