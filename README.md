@@ -16,3 +16,43 @@ If student has too much stuff doing in a short time window the app will notify t
 #### "Gamification" 
 User will be able to earn badges and rewards throughout the system to get more motivated. There will also be a page of users statistics (lets call it progress). 
 There will also be a friend system, where you can share your previous achievements and schedules. 
+
+## Technologies
+
+### Mobile app
+
+- **Framework:**
+  - React Native  
+
+- **Language:**
+  - JavaScript/TypeScript 
+
+- **UI/Libraries:**
+  - React Native Paper
+  - TailwindCSS
+
+## Webová Aplikace
+
+- **Frontend:**
+  - React
+
+- **Language:**
+  - JavaScript / TypeScript
+
+- **UI/Libraries:**
+  - Tailwind CSS
+ - Vite, Webpack nebo Create React App
+
+
+## Backend (for both)
+
+- **Platform:**
+  - **Node.js** with **TypeScript**
+
+- **Framework:**
+  - Express.js or NestJS
+
+- **Database:**
+  - **PostgreSQL**
+
+
